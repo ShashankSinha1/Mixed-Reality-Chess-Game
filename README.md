@@ -1,2 +1,2 @@
 # Mixed-Reality-Chess-Game
-Authors: Shashank Sinha, Christopher Castra, Alex Davidkov, Gamal Almareh, Krish Patel
+Authors: Shashank Sinha, Christopher Castro, Alex Davidkov, Gamal Almareh, Krish Patel
